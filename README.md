@@ -1,2 +1,2 @@
-#Tic Tac Toe Game
+#Web Project
 Tic Tac Toe Game
